@@ -1,0 +1,28 @@
+.imgprimary img {
+    margin-top: 79px;
+    width: 80%;
+    height: 500px;
+    
+    animation-duration: 2ms ease;
+}
+
+.imgprimary {
+    transition: 3s;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: wheat;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.868);
+
+}
+
+.imgprimary h3 {
+    font-size: 45px;
+    margin: 5px 0 4px;
+}
+
+.imgprimary p {
+    font-size: 27px;
+}
